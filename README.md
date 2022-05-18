@@ -1,1 +1,1 @@
-# -_DS_course
+Data Scientist: с нуля до middle
