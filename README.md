@@ -6,3 +6,5 @@
 2.[Основы-Python](https://github.com/vn322/-_DS_course/tree/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Python)
 
 3.[NumPy, pandas, MPL](https://github.com/vn322/-_DS_course/tree/NumPy%2C-pandas%2C-MPL)
+
+4.[Статистика в Python]()
